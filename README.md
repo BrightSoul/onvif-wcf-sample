@@ -1,5 +1,5 @@
-# Demo ONVIF
-Questo progetto usa delle classi proxy generate a partire dai file WSDL della specifica ONVIF che sono elencati su https://www.onvif.org/profiles/specifications/
+# Demo ONVIF .NET Core con client WCF
+Questo progetto console .NET Core usa delle classi proxy generate a partire dai file WSDL della specifica ONVIF che sono elencati su https://www.onvif.org/profiles/specifications/
 
 La specifica ONVIF è formata di vari documenti WSDL, uno per ciascun modulo. Non bisogna referenziarli tutti ma solo quelli necessari all'applicazione (ad esempio [Device](https://www.onvif.org/ver10/device/wsdl/devicemgmt.wsdl) e [PTZ](https://www.onvif.org/ver20/ptz/wsdl/ptz.wsdl)).
 
